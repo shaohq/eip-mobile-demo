@@ -21,8 +21,8 @@
     "vue-template-compiler": "^2.5.17"
   },
   "dependencies": {
-    "eip-common-kernel": "file:../eip-common-kernel",
-    "eip-mobile-base": "file:../eip-mobile-base",
+    "eip-common-kernel": "^0.2.15",
+    "eip-mobile-base": "^0.2.15",
     "js-base64": "^2.4.9",
     "axios": "^0.18.0",
     "date-fns": "^1.29.0",
