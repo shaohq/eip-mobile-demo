@@ -1,0 +1,17 @@
+[
+  {
+    "title": "首 页",
+    "icon": "wap-home",
+    "path": "/extHomePage/HomePage"
+  }, {
+    "title": "我的订单",
+    "icon": "orders-o",
+    "path": "/errorPage/ErrorPage1",
+    "requiresLogin": true
+  }, {
+    "title": "个人中心",
+    "icon": "contact",
+    "path": "/extMyCenterPage/MyCenter",
+    "requiresLogin": true
+  }
+]
