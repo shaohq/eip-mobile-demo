@@ -1,6 +1,6 @@
 {
   "name": "eip-mobile-demo",
-  "version": "0.2.15",
+  "version": "0.2.18",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve --open",
@@ -21,8 +21,8 @@
     "vue-template-compiler": "^2.5.17"
   },
   "dependencies": {
-    "eip-common-kernel": "^0.2.15",
-    "eip-mobile-base": "^0.2.15",
+    "eip-common-kernel": "^0.2.18",
+    "eip-mobile-base": "^0.2.18",
     "js-base64": "^2.4.9",
     "axios": "^0.18.0",
     "date-fns": "^1.29.0",
