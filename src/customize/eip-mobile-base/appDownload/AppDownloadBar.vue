@@ -1,11 +1,11 @@
 <template>
-  <div style="height: 40px;">klsdfs</div>
+  <div style="height: 0px;"></div>
 </template>
 
 <script>
 export default {
   mounted() {
-    this.$emit('height', 40)
+    this.$emit('height', 0)
   }
 }
 </script>
